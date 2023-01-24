@@ -1,0 +1,18 @@
+body {
+  background: #F8E8A6;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+  color: green;
+}
